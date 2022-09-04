@@ -1,6 +1,6 @@
 # nanoavionics
 
-## Monitor
+## monitor.exe
 
 Script file is located in scripts folder by name monitor.exe , execution has to be done in cmd or windows terminal. <br>
 
@@ -23,3 +23,8 @@ Script file is located in scripts folder by name monitor.exe , execution has to 
   - reads any size log file in specified chunks of lines and prints content into the promt:<br>
 `monitor.exe -f test -d ../log/ -r True -s 100`
 
+
+## tle4m6p.exe
+
+File is located in scripts folder by name tle4m6p.exe. On execute by clicking it twice and give it a second to download and filter TLE messages
+for M6P satellite. After script is done a new file with timestamp is produced at the current woring directory
