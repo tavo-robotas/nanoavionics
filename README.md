@@ -22,6 +22,13 @@ Script file is located in scripts folder by name monitor.exe , **execution has t
 2. reads any size log file in specified chunks of lines and prints content into the promt:<br>
 `monitor.exe -f test -d ../log/ -r True -s 100`
 
+## Performance
+
+Tested on Los Alamos National Lab HPC cluster systems logs:
+https://www.usenix.org/cfdr-data#hpc4
+HPC4 DATA (20GB):
+https://zenodo.org/record/3227177/files/Thunderbird.tar.gz?download=1
+
 
 ## tle4m6p.exe
 File is located in scripts folder by name tle4m6p.exe. To **execute click it twice** and give it a second to download and filter TLE messages
