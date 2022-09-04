@@ -22,7 +22,7 @@ Script file is located in scripts folder by name monitor.exe , **execution has t
 2. reads any size log file in specified chunks of lines and prints content into the promt:<br>
 `monitor.exe -f test -d ../log/ -r True -s 100`
 
-## Performance
+### Performance
 
 Tested on Los Alamos National Lab HPC cluster systems logs:
 https://www.usenix.org/cfdr-data#hpc4 <br>
