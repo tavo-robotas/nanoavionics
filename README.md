@@ -5,12 +5,12 @@ Script file is located in scripts folder by name monitor.exe , **execution has t
 
 |Flag|Explanation|
 |----|-----------|
-|-f  |filename   |
-|-d  |directory  |
-|-q  |query      |
-|-m  |monitor    |
-|-r  |reader     |
-|-s  |chunk size |
+|-f  |filename without extension |
+|-d  |relative directory         |
+|-q  |search phrase              |
+|-m  |monitor mode               |
+|-r  |reader mode                |
+|-s  |chunk size definition      |
 
 ### Sample commands <br>
 1. monitoring log files and printing out into promt last entries:<br>
