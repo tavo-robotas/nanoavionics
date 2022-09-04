@@ -13,8 +13,6 @@ Script file is located in scripts folder by name monitor.exe , **execution has t
 |-r  |reader     |
 |-s  |chunk size |
 
----
-
 ### Sample commands <br>
 1. monitoring log files and printing out into promt last entries:<br>
 `monitor.exe -f test -d ../log/ -m True`
@@ -26,7 +24,6 @@ Script file is located in scripts folder by name monitor.exe , **execution has t
 `monitor.exe -f test -d ../log/ -r True -s 100`
 
 ---
-
 ## tle4m6p.exe
 
 File is located in scripts folder by name tle4m6p.exe. On **execute by clicking it twice on file** and give it a second to download and filter TLE messages
