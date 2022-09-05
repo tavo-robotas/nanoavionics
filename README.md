@@ -33,4 +33,4 @@ https://zenodo.org/record/3227177/files/Thunderbird.tar.gz?download=1
 
 ## tle4m6p.exe
 File is located in scripts folder by name tle4m6p.exe. To **execute click it twice** and give it a second to download and filter TLE messages
-for M6P satellite. After script is done a new log file with timestamp is saved at the current woring directory.
+for M6P satellite. After script is done a new log file with timestamp is saved at the current working directory.
