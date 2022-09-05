@@ -1,4 +1,4 @@
-# nanoavionics
+# Scripts
 
 ## monitor.exe
 Script file is located in scripts folder by name monitor.exe , **execution has to be done in cmd or windows terminal**. <br>
